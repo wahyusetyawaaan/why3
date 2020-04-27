@@ -1,17 +1,18 @@
-#NOTE
-#REDEEM MANUAL DULU VOCNYA KLO BLUM PERNAH REDEEM 
-#KLO UDAH PERNAH TINGGAL GAS
+# Gojek Auto Register & Save Token 
 
-#USE
+# install
 
- $pkg install git
- $pkg install php
- $git clone https://github.com/wahyusetyawaaan/WHY
- $cd
- $cd why3
- $php why.php
+  $pkg install curl
 
-#Masukan nomer lo ya jing
-#Mskan code OTP yg di send 
-#isi Jumlah
-#Donee!
+  $pkg install php
+
+  $pkg install git
+
+  $git clone https://github.com/wahyusetyawaaan/WHY
+
+# use 
+
+$cd WHY
+
+$php whyfood.php
+
