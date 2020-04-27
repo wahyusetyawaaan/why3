@@ -1,8 +1,8 @@
 <?php
 ///////////////////////////////////////////
-///////CREATED BY ARUDJI HERMATYAR////////
-//////www.facebook.com/bantalku567///////
-/////https://github.com/arudji1211//////
+///////CREATED BY WHY////////
+//////www.facebook.com/wahyusetyawan01///////
+/////https://github.com/wahyusetyawaaan//////
 ///////////////////////////////////////
 
 function request($url, $data = null, $headers = null, $put = null)
