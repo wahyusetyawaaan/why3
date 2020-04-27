@@ -8,11 +8,11 @@
 
   $pkg install git
 
-  $git clone https://github.com/wahyusetyawaaan/WHY
+  $git clone https://github.com/wahyusetyawaaan/why3
 
 # use 
 
-$cd WHY
+$cd why3
 
-$php whyfood.php
+$php why.php
 
