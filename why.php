@@ -33,7 +33,7 @@ echo "\n";
         echo "\e[92m••••••••••••••••••••••••••••••••••••••••••\n";
         echo "\e[92m             SCRIPT BY WHY               \n";
         echo "\e[92m                 vist me            \n";
-        echo "\e[92m         https://wahyusetyawan.id/    \n";
+        echo "\e[92m         https://wahyusetyawan.com/    \n";
         echo "\e[92m           Tembak Kouta 1 Day   \n";
         echo "\e[92m         GOODLUCK AND ENJOY :)                  \n";
         echo "\e[92m••••••••••••••••••••••••••••••••••••••••••\n";
