@@ -1,4 +1,4 @@
-# Gojek Auto Register & Save Token 
+# TRI Auto Submit & Auto Tembak 1GB
 
 # install
 
